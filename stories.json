@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "difficulty": 1,
         "title": "Um copo d'água",
         "image": "water-gun.svg",
@@ -7,18 +8,21 @@
         "answer": "O homem havia entrado no bar para se livrar de soluços, procurando um copo de água. O barman, percebendo a situação, saca a arma e aponta-a para o homem, a fim de curá-lo com um susto."
     },
     {
+        "id": 2,
         "difficulty": 2,
         "title": "Uma morte incomum",
         "description": "Paulo trabalha num banco. Nesse dia, um grande apagão ocorre em toda a cidade. Poucos minutos depois, Paulo morre eletrocutado.",
         "answer": "Paulo é técnico de informática e decidiu trabalhar no parque naquele dia, sentado em um banco. De repente, inicia-se uma tempestade e, em seguida ocorre o apagão. Quando Paulo está pensando em ir para casa, é atingido por um raio."
     },
     {
+        "id": 3,
         "difficulty": 3,
         "title": "O último trem",
         "description": "Sebastião estava sentado lendo o jornal quando ouviu um barulho. No momento que percebeu o que havia ocorrido, lamentou por não ter pegado o trem a tempo. Pouco tempo depois, Sebastião cometeu suicídio.",
         "answer": "Sebastião estava falido. Ele era um colecionador de trens e, para resolver seus problemas econômicos, pretendia vender o seu mais valioso modelo de trem. Ele estava limpando o trem sobre a mesa, mas não deixou-o posicionado de forma segura. Quando se sentou para descansar e começou a ler seu jornal, ouviu o trem caindo da mesa. Sebastião não teve tempo de pegá-lo antes de cair no chão."
     },
     {
+        "id": 4,
         "difficulty": 1,
         "title": "Armadilha voadora",
         "description": "Heidi olhou pela janela e viu um bando de pombos. Momentos depois, ela e os pombos estavam mortos.",
@@ -26,6 +30,7 @@
         "answer": "Heidi estava em um avião. Ela estava voando para o México nas férias quando viu os pássaros do lado de fora do avião durante a decolagem. Os pombos do lado de fora foram sugados pelos motores do avião e causaram sua queda."
     },
     {
+        "id": 5,
         "difficulty": 1,
         "title": "Triste Sally",
         "image": "sad-sally.svg",
@@ -33,12 +38,14 @@
         "answer": "O namorado de Sally havia feito recentemente uma cirurgia no olho. Jack, o cão-guia do namorado, a acordou depois que o carteiro entregou uma carta. A carta era do médico. A carta foi em resposta aos exames médicos de seu namorado que confirmaram que a cirurgia não teve sucesso e que agora ele estaria totalmente cego."
     },
     {
+        "id": 6,
         "difficulty": 3,
         "title": "Breve Corrida",
         "description": "Um homem de terno está correndo por um corredor segurando uma pasta, assim que vê as luzes piscando, ele para de correr. Porque?",
         "answer": "O homem é advogado e recebeu um perdão de última hora por seu cliente que estava no corredor da morte. Ao ver a luz tremeluzir, sabe que é tarde demais e que seu cliente já foi morto pela cadeira elétrica."
     },
     {
+        "id": 7,
         "difficulty": 2,
         "title": "Encontro Familiar",
         "image": "family-gathering.svg",
@@ -46,6 +53,7 @@
         "answer": "Michael foi cercado por sua família em uma câmara de execução. Michael não via seu pai há anos porque ele havia sido rejeitado durante seu longo julgamento. Quando viu seu pai entrar na câmara, quis pedir perdão antes de morrer. Michael não teve a chance, pois o carrasco acionou sua cadeira elétrica no momento em que Michael estava prestes a falar."
     },
     {
+        "id": 8,
         "difficulty": 2,
         "title": "História Negra",
         "image": "dark-story.svg",
@@ -53,6 +61,7 @@
         "answer": "Marcel e Henry trabalharam em uma câmara escura onde revelaram fotos para os clientes. Enquanto revelava um filme de um fotógrafo local, Marcel percebeu que sua esposa e Henry podiam ser vistos juntos no fundo de algumas das fotos e em uma eles estavam claramente se beijando."
     },
     {
+        "id": 9,
         "difficulty": 1,
         "title": "Morte Calma",
         "image": "dead-calm.svg",
