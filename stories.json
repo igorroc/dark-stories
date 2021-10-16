@@ -1,0 +1,54 @@
+[
+    {
+        "id": 1,
+        "title": "Um copo d'água",
+        "description": "Um homem entra num bar e pede um copo d'água. O barman puxa uma arma de debaixo do balcão e aponta para a cabeça do homem, que responde 'obrigado' e sai do bar.",
+        "answer": "O homem havia entrado no bar para se livrar de soluços, procurando um copo de água. O barman, percebendo a situação, saca a arma e aponta-a para o homem, a fim de curá-lo com um susto."
+    },
+    {
+        "id": 2,
+        "title": "Non ipsum minim tempor incididunt.",
+        "description": "Eu reprehenderit labore adipisicing laboris ea occaecat ea. Ex est fugiat magna dolor esse fugiat fugiat consectetur laborum mollit ex dolor commodo. Mollit labore enim incididunt mollit laboris excepteur reprehenderit qui tempor enim. Dolor eiusmod consectetur ut incididunt ex et deserunt commodo nostrud.",
+        "answer": "Officia laboris et elit commodo cillum sit aute esse cupidatat consequat. Incididunt occaecat in dolore eiusmod aliquip. Eu reprehenderit cillum tempor ut proident irure id ad nulla magna sint aliqua et consequat. Officia sint elit duis veniam in tempor et occaecat commodo."
+    },
+    {
+        "id": 3,
+        "title": "Non ipsum minim tempor incididunt.",
+        "description": "Eu reprehenderit labore adipisicing laboris ea occaecat ea. Ex est fugiat magna dolor esse fugiat fugiat consectetur laborum mollit ex dolor commodo. Mollit labore enim incididunt mollit laboris excepteur reprehenderit qui tempor enim. Dolor eiusmod consectetur ut incididunt ex et deserunt commodo nostrud.",
+        "answer": "Officia laboris et elit commodo cillum sit aute esse cupidatat consequat. Incididunt occaecat in dolore eiusmod aliquip. Eu reprehenderit cillum tempor ut proident irure id ad nulla magna sint aliqua et consequat. Officia sint elit duis veniam in tempor et occaecat commodo."
+    },{
+        "id": 4,
+        "title": "Um copo d'água",
+        "description": "Um homem entra num bar e pede um copo d'água. O barman puxa uma arma de debaixo do balcão e aponta para a cabeça do homem, que responde 'obrigado' e sai do bar.",
+        "answer": "O homem havia entrado no bar para se livrar de soluços, procurando um copo de água. O barman, percebendo a situação, saca a arma e aponta-a para o homem, a fim de curá-lo com um susto."
+    },
+    {
+        "id": 5,
+        "title": "Non ipsum minim tempor incididunt.",
+        "description": "Eu reprehenderit labore adipisicing laboris ea occaecat ea. Ex est fugiat magna dolor esse fugiat fugiat consectetur laborum mollit ex dolor commodo. Mollit labore enim incididunt mollit laboris excepteur reprehenderit qui tempor enim. Dolor eiusmod consectetur ut incididunt ex et deserunt commodo nostrud.",
+        "answer": "Officia laboris et elit commodo cillum sit aute esse cupidatat consequat. Incididunt occaecat in dolore eiusmod aliquip. Eu reprehenderit cillum tempor ut proident irure id ad nulla magna sint aliqua et consequat. Officia sint elit duis veniam in tempor et occaecat commodo."
+    },
+    {
+        "id": 6,
+        "title": "Non ipsum minim tempor incididunt.",
+        "description": "Eu reprehenderit labore adipisicing laboris ea occaecat ea. Ex est fugiat magna dolor esse fugiat fugiat consectetur laborum mollit ex dolor commodo. Mollit labore enim incididunt mollit laboris excepteur reprehenderit qui tempor enim. Dolor eiusmod consectetur ut incididunt ex et deserunt commodo nostrud.",
+        "answer": "Officia laboris et elit commodo cillum sit aute esse cupidatat consequat. Incididunt occaecat in dolore eiusmod aliquip. Eu reprehenderit cillum tempor ut proident irure id ad nulla magna sint aliqua et consequat. Officia sint elit duis veniam in tempor et occaecat commodo."
+    },{
+        "id": 7,
+        "title": "Um copo d'água",
+        "description": "Um homem entra num bar e pede um copo d'água. O barman puxa uma arma de debaixo do balcão e aponta para a cabeça do homem, que responde 'obrigado' e sai do bar.",
+        "answer": "O homem havia entrado no bar para se livrar de soluços, procurando um copo de água. O barman, percebendo a situação, saca a arma e aponta-a para o homem, a fim de curá-lo com um susto."
+    },
+    {
+        "id": 8,
+        "title": "Non ipsum minim tempor incididunt.",
+        "description": "Eu reprehenderit labore adipisicing laboris ea occaecat ea. Ex est fugiat magna dolor esse fugiat fugiat consectetur laborum mollit ex dolor commodo. Mollit labore enim incididunt mollit laboris excepteur reprehenderit qui tempor enim. Dolor eiusmod consectetur ut incididunt ex et deserunt commodo nostrud.",
+        "answer": "Officia laboris et elit commodo cillum sit aute esse cupidatat consequat. Incididunt occaecat in dolore eiusmod aliquip. Eu reprehenderit cillum tempor ut proident irure id ad nulla magna sint aliqua et consequat. Officia sint elit duis veniam in tempor et occaecat commodo."
+    },
+    {
+        "id": 9,
+        "title": "Non ipsum minim tempor incididunt.",
+        "description": "Eu reprehenderit labore adipisicing laboris ea occaecat ea. Ex est fugiat magna dolor esse fugiat fugiat consectetur laborum mollit ex dolor commodo. Mollit labore enim incididunt mollit laboris excepteur reprehenderit qui tempor enim. Dolor eiusmod consectetur ut incididunt ex et deserunt commodo nostrud.",
+        "answer": "Officia laboris et elit commodo cillum sit aute esse cupidatat consequat. Incididunt occaecat in dolore eiusmod aliquip. Eu reprehenderit cillum tempor ut proident irure id ad nulla magna sint aliqua et consequat. Officia sint elit duis veniam in tempor et occaecat commodo."
+    }
+]
