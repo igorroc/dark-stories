@@ -1,9 +1,9 @@
 var fs = require("fs")
 
-function Story(request, response) {
+async function Story(request, response) {
 	var options = request.query
 
-	var jsonDB = getDB("stories.json")
+	var jsonDB = await getDB("stories.json")
 
 	let max = 0
 	if (jsonDB) {
@@ -14,23 +14,23 @@ function Story(request, response) {
 	response.json(jsonDB[random])
 }
 
-function getDB(file) {
-	return [
-		{
-			path: __dirname,
-		},
-	]
-	// var firstPath = __dirname.split("\\dark-stories")[0]
-	// var filepath = firstPath + "\\dark-stories\\" + file
-	// return readJsonFileSync(filepath)
-}
+async function getDB(file) {
+	let jsonFile
+	await fetch("https://raw.githubusercontent.com/igorroc/dark-stories/master/stories.json")
+		.then((response) => {
+			if (!response.ok) {
+				throw new Error("HTTP error " + response.status)
+			}
+			return response.json()
+		})
+		.then((json) => {
+			jsonFile = json
+		})
+		.catch(function (e) {
+			console.error("ERROOO", e)
+		})
 
-function readJsonFileSync(filepath, encoding) {
-	if (typeof encoding == "undefined") {
-		encoding = "utf8"
-	}
-	var file = fs.readFileSync(filepath, encoding)
-	return JSON.parse(file)
+	return jsonFile
 }
 
 export default Story
