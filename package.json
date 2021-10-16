@@ -3,7 +3,6 @@
 	"version": "1.0.0",
 	"description": "API",
 	"main": "index.js",
-	"homepage": "https://igorroc.github.io/dark-stories",
 	"scripts": {
 		"dev": "next dev",
 		"build": "next build",
