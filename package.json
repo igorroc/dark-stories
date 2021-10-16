@@ -15,7 +15,7 @@
   "bugs": {
     "url": "https://github.com/igorroc/dark-stories/issues"
   },
-  "homepage": "https://github.com/igorroc/dark-stories#readme",
+  "homepage": "https://igorroc.github.io/dark-stories/",
   "dependencies": {
     "next": "^11.1.2",
     "react": "^17.0.2",
