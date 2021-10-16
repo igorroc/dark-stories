@@ -6,16 +6,20 @@ function Story(request, response) {
 	var jsonDB = getDB("stories.json")
 
 	let max = 0
-	if(jsonDB){
+	if (jsonDB) {
 		max = jsonDB.length
 	}
-	let random = Math.floor(Math.random() * (max + 1))
+	let random = Math.floor(Math.random() * max)
 
-	response.json(options)
+	response.json(jsonDB[random])
 }
 
 function getDB(file) {
-	console.log(__dirname)
+	return [
+		{
+			path: __dirname,
+		},
+	]
 	// var firstPath = __dirname.split("\\dark-stories")[0]
 	// var filepath = firstPath + "\\dark-stories\\" + file
 	// return readJsonFileSync(filepath)
@@ -28,6 +32,5 @@ function readJsonFileSync(filepath, encoding) {
 	var file = fs.readFileSync(filepath, encoding)
 	return JSON.parse(file)
 }
-
 
 export default Story
