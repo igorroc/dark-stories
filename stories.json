@@ -3,7 +3,7 @@
         "id": 1,
         "difficulty": 1,
         "title": "Um copo d'água",
-        "image": "water-gun.svg",
+        "image": "water-gun.png",
         "description": "Um homem entra num bar e pede um copo d'água. O barman puxa uma arma de debaixo do balcão e aponta para a cabeça do homem, que responde 'obrigado' e sai do bar.",
         "answer": "O homem havia entrado no bar para se livrar de soluços, procurando um copo de água. O barman, percebendo a situação, saca a arma e aponta-a para o homem, a fim de curá-lo com um susto."
     },
@@ -26,14 +26,14 @@
         "difficulty": 1,
         "title": "Armadilha voadora",
         "description": "Heidi olhou pela janela e viu um bando de pombos. Momentos depois, ela e os pombos estavam mortos.",
-        "image": "flap-trap.svg",
+        "image": "flap-trap.png",
         "answer": "Heidi estava em um avião. Ela estava voando para o México nas férias quando viu os pássaros do lado de fora do avião durante a decolagem. Os pombos do lado de fora foram sugados pelos motores do avião e causaram sua queda."
     },
     {
         "id": 5,
         "difficulty": 1,
         "title": "Triste Sally",
-        "image": "sad-sally.svg",
+        "image": "sad-sally.png",
         "description": "Sally estava dormindo quando foi acordada por Jack. Ela caminhou até a porta e encontrou uma carta. Ela leu e começou a chorar. Ela agora sabia que seu namorado nunca a veria novamente.",
         "answer": "O namorado de Sally havia feito recentemente uma cirurgia no olho. Jack, o cão-guia do namorado, a acordou depois que o carteiro entregou uma carta. A carta era do médico. A carta foi em resposta aos exames médicos de seu namorado que confirmaram que a cirurgia não teve sucesso e que agora ele estaria totalmente cego."
     },
@@ -48,7 +48,7 @@
         "id": 7,
         "difficulty": 2,
         "title": "Encontro Familiar",
-        "image": "family-gathering.svg",
+        "image": "family-gathering.png",
         "description": "Michael Partridge tinha sua família reunida ao seu redor. Seu pai, Colin Partridge, que ele não via há 3 anos, tinha acabado de entrar na sala. Ao entrar, Michael chamou sua atenção e tentou fazer-lhe uma pergunta. Antes que um som saísse da boca de Michael, ele estava morto.",
         "answer": "Michael foi cercado por sua família em uma câmara de execução. Michael não via seu pai há anos porque ele havia sido rejeitado durante seu longo julgamento. Quando viu seu pai entrar na câmara, quis pedir perdão antes de morrer. Michael não teve a chance, pois o carrasco acionou sua cadeira elétrica no momento em que Michael estava prestes a falar."
     },
@@ -56,7 +56,7 @@
         "id": 8,
         "difficulty": 2,
         "title": "História Negra",
-        "image": "dark-story.svg",
+        "image": "dark-story.png",
         "description": "Marcel e Henry estavam sentados em uma sala escura. Eles não se falaram, mas depois de 10 minutos, Marcel teve certeza de que Henry estava traindo sua esposa.",
         "answer": "Marcel e Henry trabalharam em uma câmara escura onde revelaram fotos para os clientes. Enquanto revelava um filme de um fotógrafo local, Marcel percebeu que sua esposa e Henry podiam ser vistos juntos no fundo de algumas das fotos e em uma eles estavam claramente se beijando."
     },
@@ -64,7 +64,7 @@
         "id": 9,
         "difficulty": 1,
         "title": "Morte Calma",
-        "image": "dead-calm.svg",
+        "image": "dead-calm.png",
         "description": "Aleksander Lizka estava em casa quando de repente começou a se sentir fraco. Suas filhas ligaram para o pronto-socorro e uma ambulância chegou em minutos para levá-lo ao hospital. Aleksander morreu enquanto era carregado para o hospital. Em seu funeral, a família foi consolada por como ele parecia calmo na morte. Enquanto se reunia em torno de seu caixão, a polícia entrou na casa funerária e prendeu o diretor da funerária.",
         "answer": "O agente funerário queria mais negócios para sua agência funerária, então ele pagou aos trabalhadores da ambulância para matar qualquer paciente idoso que se valesse de seus serviços. Eles fizeram isso administrando uma dose letal de relaxante muscular aos pacientes. Aleksander foi uma das muitas vítimas e a polícia finalmente reuniu evidências suficientes para prender o agente funerário desonesto, então o prenderam assim que puderam."
     }
