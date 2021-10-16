@@ -3,12 +3,12 @@ var fs = require("fs")
 function Story(request, response) {
 	var options = request.query
 
-	var jsonDB = getDB("stories.json")
+	// var jsonDB = getDB("stories.json")
 
-	let max = jsonDB.length
-	let random = Math.floor(Math.random() * (max + 1))
+	// let max = jsonDB.length
+	// let random = Math.floor(Math.random() * (max + 1))
 
-	response.json({test: true})
+	response.json(options)
 }
 
 function readJsonFileSync(filepath, encoding) {
