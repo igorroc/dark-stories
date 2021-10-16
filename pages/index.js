@@ -1,5 +1,10 @@
 function Home() {
-	return <div>Home</div>
+	return (
+		<div>
+			<h1>Home</h1>
+			<a href="./api/story">API</a>
+		</div>
+	)
 }
 
 export default Home
