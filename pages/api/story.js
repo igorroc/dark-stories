@@ -8,7 +8,7 @@ function Story(request, response) {
 	let max = jsonDB.length
 	let random = Math.floor(Math.random() * (max + 1))
 
-	response.json(jsonDB[random])
+	response.json({test: true})
 }
 
 function readJsonFileSync(filepath, encoding) {
